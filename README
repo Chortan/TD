@@ -1,0 +1,45 @@
+#DESCRIPTION DE TD
+
+Le but est a terme de créer un jeux de type Tower Defence 
+
+1.0 uniquement solo
+2.0 intègrera le multijoueur
+
+#UNIVERS
+
+Dans un monde fantastique on incarne un roi qui doit protéger son chateau et ces territoires.
+Il est en guerre avec une autre nation qui veux le détruire.
+
+
+#PRINCIPE
+
+Le principe est de défendre des potitions stratégique contre des vague d'ennemie en sortifiant les routes & chemins
+En prenant des territoir d'un certain type on obtient des ressources et unité divers (paysan, ecurie, forge, foret, ...)
+
+
+#TOURELLE
+
+- Lancier
+	=> Acher standard
+		=> Archer incendier
+		=> Archer explosif
+		=> Arbaletrier
+			=> mousquet
+- Canon
+	=> Canon grenaille
+	=> Canon a boulet
+	=> Canon a boulet explosif
+
+
+(- Dragon)
+
+#PEON
+
+- Paysan
+	=> Ouvrier
+- Chevalier
+	=> Chevalier standard
+	=> Chevalier blindé
+	=> Chevalier noir
+
+
