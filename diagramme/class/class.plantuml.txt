@@ -1,0 +1,36 @@
+class Map
+class Entity
+
+class Position{
+	- x:int
+	- y:int
+}
+
+class Peon
+
+class Area
+class AreaInfluence
+class AreaPath
+class AreaPassive
+
+class Tower{
+	- damage:int
+	- frequency:float
+	- areaDamage : int
+	- salve : int
+	- range :  int
+	- shootTime : long
+	
+}
+
+Map *-- "0..n" Entity
+Position "1..1" --* Entity 
+Area --|> Entity
+Peon --|> Entity
+
+Tower --|> Entity
+
+AreaInfluence --|> Area
+AreaPath --|> Area
+AreaPassive --|> Area
+
